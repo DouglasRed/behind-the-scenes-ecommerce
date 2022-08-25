@@ -40,4 +40,4 @@ Contact me at douglasred63@yahoo.com for any questions you have about my project
 
 ## View My Video
 
-View my video of this project here! https://github.com/DouglasRed/do-note-forget/blob/main/Do%20Note%20Forget.mp4 (Please note: you may have to download this 5 minute video)
+View my video of this project here! (Please note: you may have to download this 5 minute video)
