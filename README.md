@@ -40,4 +40,4 @@ Contact me at douglasred63@yahoo.com for any questions you have about my project
 
 ## View My Video
 
-View my video of this project here! (Please note: you may have to download this 5 minute video)
+View my video of this project here https://youtu.be/9zxIfUGkX7s (Please note: you may have to download this 3 minute video if you do not watch it via Youtube).
